@@ -49,6 +49,10 @@ body{
     padding: 5px;
     margin: 0;
 }
+#Y{
+  text-decoration: underline;
+  color: rgb(41, 39, 39);
+}
 .container {
     width: 80%;
     max-width: 1000px;
