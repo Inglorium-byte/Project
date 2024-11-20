@@ -41,6 +41,7 @@ nav a:hover {
 }
 body{
     margin: 3px;
+    
     border:solid  gray 5px;
 }
 #K{
@@ -51,7 +52,7 @@ body{
 }
 #Y{
   text-decoration: underline;
-  color: rgb(41, 39, 39);
+  color: rgb(109, 0, 203);
 }
 .container {
     width: 80%;
