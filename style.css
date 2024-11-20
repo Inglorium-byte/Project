@@ -25,6 +25,7 @@ nav li {
 nav a {
     text-decoration: none;
     background-color: silver;
+    color: white;
     padding: 5px;
     display: block;
     width: 200px;
@@ -41,7 +42,7 @@ nav a:hover {
 }
 body{
     margin: 3px;
-    
+    color: silver;
     border:solid  gray 5px;
 }
 #K{
@@ -52,7 +53,7 @@ body{
 }
 #Y{
   text-decoration: underline;
-  color: rgb(109, 0, 203);
+  color: rgb(255, 255, 255);
 }
 .container {
     width: 80%;
@@ -68,7 +69,7 @@ body{
   .card {
     width: 90px;
     padding: 50px;
-    background-color: hsl(309, 79%, 48%);
+    background-color: hsl(92, 86%, 43%);
     border-end-end-radius: 100px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
