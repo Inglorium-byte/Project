@@ -71,7 +71,7 @@ body{
     padding: 50px;
     background-color: gold;
     color: red;
-    border-end-end-radius: 100px;
+    border-start-end-radius: 100px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
     transition: transform 0.3s ease;
