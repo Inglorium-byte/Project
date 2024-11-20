@@ -63,7 +63,7 @@ body{
   .card {
     width: 90px;
     padding: 50px;
-    background-color: hsl(103, 79%, 48%);
+    background-color: hsl(309, 79%, 48%);
     border-end-end-radius: 100px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
