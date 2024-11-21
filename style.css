@@ -67,8 +67,9 @@ body{
     gap: 20px;
   }
   .card {
-    width: 90px;
+    width: 100px;
     padding: 50px;
+    margin-left: 130px;
     background-color: gold;
     color: red;
     border-start-end-radius: 100px;
